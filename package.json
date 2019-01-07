@@ -7,7 +7,7 @@
   "scripts": {
     "test": "jest",
     "postinstall": "opencollective postinstall"
-  }
+  
     },
   "author": "Brandon Him",
   "files": [
